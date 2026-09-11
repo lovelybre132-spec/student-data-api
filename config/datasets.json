@@ -10,5 +10,9 @@
   "viral-50-usa": {
     "file": "data/viral-50-usa.csv",
     "description": "A sample Viral 50 USA music chart with track positions and artists"
+  },
+  "Fast-Food-Nutrition": {
+    "file": "data/Fast-Food-Nutrition.csv",
+    "description": "fast food benefits"
   }
 }
